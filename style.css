@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
   --cor-fundo: #554B45;
@@ -49,6 +50,7 @@ a{
 }
 
 .apresentacao__conteudo__titulo{
+  font-family: 'Krona One', 'sans-serif';
   font-size: 36px;
 }
 
